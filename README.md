@@ -2,6 +2,14 @@
 
 # pmlblite
 
+![Lifecycle
+](https://img.shields.io/badge/lifecycle-maturing-blue.svg?style=flat)
+![R 
+%>%= 3.2.0](https://img.shields.io/badge/R->%3D3.2.0-blue.svg?style=flat)
+![Dependencies
+](https://img.shields.io/badge/dependencies-none-brightgreen.svg?style=flat)
+
+
 pmlblite is an R interface to the [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/penn-ml-benchmarks) (PMLB) data repository 
 
 
