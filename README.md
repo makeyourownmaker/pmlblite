@@ -114,10 +114,11 @@ Integration of other data repositories are particularly welcome.
 
 * [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/penn-ml-benchmarks)
 * [OpenML](https://www.openml.org/search?type=data)
-    Approx. 2,500 datasets - available for download with [R module](https://github.com/openml/openml-r)
+    Approximately 2,500 datasets - available for download using [R module](https://github.com/openml/openml-r)
 * [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 * [mlbench: Machine Learning Benchmark Problems](https://cran.r-project.org/package=mlbench)
 * [Rdatasets: An archive of datasets distributed with R](https://vincentarelbundock.github.io/Rdatasets/)
+* [datasets.load: Visual interface for loading datasets in RStudio from all installed (unloaded) packages](https://cran.r-project.org/package=datasets.load)
 * [stackoverflow: How do I get a list of built-in data sets in R?](https://stackoverflow.com/questions/33797666/how-do-i-get-a-list-of-built-in-data-sets-in-r)
 
 ## License
