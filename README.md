@@ -15,6 +15,8 @@ pmlblite is an R interface to the [Penn Machine Learning Benchmarks](https://git
 
 ## Usage
 
+<img src="man/figures/pmlblite_usage_animated.gif" align="center" />
+
 Check available data sets and download data from the PMLB repository:
 
 ```
