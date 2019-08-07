@@ -19,7 +19,7 @@ pmlblite is an R interface to the [Penn Machine Learning Benchmarks](https://git
 
 Check available data sets and download data from the PMLB repository:
 
-```
+```r
 library(pmlblite)
 
 # Data set names
@@ -45,7 +45,7 @@ iris$y # vector
 
 Should work with any recent version of R.
 
-```
+```r
 install.packages("devtools") # Install devtools package if necessary
 library(devtools)
 devtools::install_github("makeyourownmaker/pmlblite")
@@ -79,7 +79,7 @@ include any of the PMLB data sets.  The data sets can be downloaded using the `f
 is similar to the corresponding PMLB python function.  
 
 Further info:
-```
+```r
 ?fetch_data
 ?regression_summary
 ?classification_summary
