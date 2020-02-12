@@ -12,6 +12,8 @@
 
 pmlblite is an R interface to the [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/penn-ml-benchmarks) (PMLB) data repository 
 
+If you like pmlblite, give it a star, or fork it and contribute!
+
 
 ## Usage
 
